@@ -7,7 +7,7 @@ KERNEL_NAME="Arkael"
 USER="arqzey"
 HOST="Arkael"
 TIMEZONE="Asia/Damascus"
-ANYKERNEL_REPO="https://github.com/ahmed-alnassif/AK3-GKID"
+ANYKERNEL_REPO="https://github.com/Arkael-Dev/AnyKernel3"
 
 KERNEL_DEFCONFIG="gki_defconfig"
 
@@ -19,7 +19,7 @@ RELEASE="$(date +v%y.%m.%d)${RUN_NUM}"
 
 mkdir -p $RELEASE_DIR
 
-GKI_RELEASES_REPO="https://github.com/ahmed-alnassif/GKID-Kernels"
+GKI_RELEASES_REPO="https://github.com/Arkael-Dev/build-kernel"
 AK3_ZIP_NAME="$KERNEL_NAME-VARIANT-REL-KVER.zip"
 OUTDIR="$WORKDIR/out"
 KSRC="$WORKDIR/ksrc"
