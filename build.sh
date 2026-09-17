@@ -3,9 +3,9 @@
 WORKDIR="$(pwd)"
 RELEASE_DIR="$WORKDIR/artifacts"
 
-KERNEL_NAME="GKID"
-USER="ahmed-alnassif"
-HOST="GKID"
+KERNEL_NAME="Arkael"
+USER="arqzey"
+HOST="Arkael"
 TIMEZONE="Asia/Damascus"
 ANYKERNEL_REPO="https://github.com/ahmed-alnassif/AK3-GKID"
 
